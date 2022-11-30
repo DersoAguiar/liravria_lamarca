@@ -1,0 +1,154 @@
+{
+    "livros": [
+        {
+            "id": 1,
+            "nome": "Olga Benário Prestes",
+            "autor": "Anita Leocadia Prestes",
+            "editora": "Boitempo",
+            "preco": "R$ 43,00",
+            "categoria": "politica",
+            "capa": "https://boitempo-img.f1cdn.com.br/resizer/view/153/240/false/true/286.jpg",
+            "status": "Disponível"
+        },
+        {
+            "id": 2,
+            "nome": "Marx: uma introdução",
+            "autor": "Jorge Grespan",
+            "editora": "Boitempo",
+            "preco":"R$ 35,00",
+            "categoria": "politica",
+            "capa": "https://boitempo-img.f1cdn.com.br/resizer/view/153/240/false/true/1212.jpg",
+            "status": "Disponível"
+        },
+        {
+            "id": 3,
+            "nome": "Colonialismo e luta anticolonial",
+            "autor": "Domenico Losurdo",
+            "editora": "Boitempo",
+            "preco": "R$ 55,00",
+            "categoria": "politica",
+            "capa": "https://boitempo-img.f1cdn.com.br/resizer/view/153/240/false/true/1145.jpg",
+            "status": "Disponível"
+        },
+        {
+            "id": 4,
+            "nome": "Dia Um",
+            "autor": "Thiago Camelo",
+            "editora": "Cia das Letras",
+            "preco": "R$ 69,90",
+            "categoria": "feminismo",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/200/9786559211067/dia-um.jpg",
+            "status": "Disponível"
+        },
+        {
+            "id": 5,
+            "nome": "Um Passo de Cada Vez",
+            "autor": "Iris Figueiredo",
+            "editora": "Cia das Letras",
+            "preco": "R$ 43,00",
+            "categoria": "feminismo",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/200/9788555342264/um-passo-de-cada-vez.jpg",
+            "status": "Disponível"
+        },
+        {
+            "id": 6,
+            "nome": "Watt",
+            "autor": "Samuel Beckett",
+            "editora": "Cia das Letras",
+            "preco": "R$ 129,90",
+            "categoria": "economia",
+            "capa": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/200/9786559211333/watt.jpg",
+            "status": "Disponível"
+        },
+        {
+            "id": 7,
+            "nome": "Pertencimento",
+            "autor": "Bell Hooks",
+            "editora": "Elefante",
+            "categoria": "feminismo",
+            "preco": "R$ 65,00",
+            "capa": "https://elefanteeditora.com.br/wp-content/uploads/2022/09/site-mockuo-vendas-300x300.jpg",
+            "status": "Indisponível"
+        },
+        {
+            "id": 8,
+            "nome": "Resgatar a função social da economia",
+            "autor": "Ladislau Dowbar",
+            "editora": "Elefante",
+            "preco": "R$ 39,90",
+            "categoria": "economia",
+            "capa": "https://elefanteeditora.com.br/wp-content/uploads/2022/08/dVRcdgpg-300x300.jpeg",
+            "status": "Indisponível"
+        },
+        {
+            "id": 9,
+            "nome": "Escrever além da raça",
+            "autor": "Bell Hooks",
+            "editora": "Elefante",
+            "preco": "R$ 65,00",
+            "categoria": "economia",
+            "capa": "https://elefanteeditora.com.br/wp-content/uploads/2022/06/escreverlaemdaraca_externas5-300x300.jpg",
+            "status": "Indisponível"
+        },
+        {
+            "id": 10,
+            "nome": "Amora",
+            "autor": "Nastalia Borges Polesso",
+            "editora": "Dublinense",
+            "preco": "R$ 59,90",
+            "categoria": "filosofia",
+            "capa": "https://dublinense.com.br/wp-content/uploads/2022/11/Amora-600x600.jpg",
+            "status": "Indisponível"
+        },
+        {
+            "id": 11,
+            "nome": "A solidão do amanhã",
+            "autor": "Henrique Schneider",
+            "editora": "Dublinense",
+            "preco": "R$ 59,90",
+            "categoria": "filosofia",
+            "capa": "https://dublinense.com.br/wp-content/uploads/2022/10/Q_A_solid%C3%A3o_do_amanh%C3%A3-600x600.jpg",
+            "status": "Disponível"
+        },
+        {
+            "id": 12,
+            "nome": "Animalescos",
+            "autor": "Gonçalves M. Tavares",
+            "editora": "Dublinense",
+            "preco": "R$ 59,90",
+            "categoria": "filosofia",
+            "capa": "https://dublinense.com.br/wp-content/uploads/2020/04/Animalescos-2-600x600.jpg",
+            "status": "Disponível"
+        },
+        {
+            "id": 13,
+            "nome": "Sociedade e natureza: uma investigação sociológica",
+            "autor": "Hans Kelsen",
+            "editora": "ContraCorrente",
+            "preco": "R$ 128,00",
+            "categoria": "infatil",
+            "capa": "https://i0.wp.com/loja-editoracontracorrente.com.br/wp-content/uploads/2022/11/Capa.png?resize=600%2C871&ssl=1",
+            "status": "Disponível"
+        },
+        {
+            "id": 14,
+            "nome": "Argumentação legislativa",
+            "autor": "Manuel Atienza",
+            "editora": "ContraCorrente",
+            "preco": "R$ 64,00",
+            "categoria": "infantil",
+            "capa": "https://i0.wp.com/loja-editoracontracorrente.com.br/wp-content/uploads/2022/10/capa-1.png?resize=600%2C899&ssl=1",
+            "status": "Disponível"
+        },
+        {
+            "id": 15,
+            "nome": "A autoridade e a globalização da inclusão e exclusão",
+            "autor": "Hans Lindahl",
+            "editora": "ContraCorrente",
+            "preco": "R$ 144,00",
+            "categoria": "infantil",
+            "capa": "https://i0.wp.com/loja-editoracontracorrente.com.br/wp-content/uploads/2022/09/autoridade_capa.png?resize=600%2C878&ssl=1",
+            "status": "Disponível"
+        }
+    ]
+}
