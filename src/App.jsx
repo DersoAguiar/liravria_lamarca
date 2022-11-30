@@ -27,6 +27,7 @@ function App() {
 
   useEffect(() => {
     loadLivrosData(0, 4, 0);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const loadLivrosData = async (start, end, increase, optType=null, filterOrSortValue) => {
